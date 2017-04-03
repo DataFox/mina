@@ -1,6 +1,6 @@
 # Mina
 
-![mina](https://assets.infinum.co/attachments/ad98b5e667facece8bb0b790f3cafe5bcb2dc469/store/limit/1000/1000/291724d19624f688957cebb5a0549abb6ea07113bdac11026ad2d5a6d29f/Mina_Icon.png)
+![mina](http://nadarei.co/mina/images/logo.png?1344377458)
 
 Really fast deployer and server automation tool.
 
