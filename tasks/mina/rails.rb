@@ -71,6 +71,12 @@ namespace :rails do
     end
   end
 
+  desc 'Support for older Rails versions.Install all JavaScript dependencies as specified via Yarn'
+  task :webpacker_install do
+    comment %{Precompiling webpacker asset files}
+    command %{#{fetch(:rails)} webpacker:yarn_install}
+  end
+
   desc 'Compile webpacker assets'
   task :webpacker_compile do
     comment %{Precompiling webpacker asset files}
