@@ -28,4 +28,5 @@ Credits
 ----------------
 
 Orignal Mina is maintained and sponsored by [Infinum](https://infinum.co).
+
 This Fork is maintained and sponsored by [DataFox](https://data-fox.com.au).
